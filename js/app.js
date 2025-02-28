@@ -612,7 +612,7 @@ data.forEach(obj => {
         
         row.appendChild(column)
         card.addEventListener("click", () => {
-            alert(`You clicked on ${obj.team}`)
+            // alert(`You clicked on ${obj.team}`)
         })
     })
 
